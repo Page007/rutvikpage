@@ -33,4 +33,6 @@ Things to do on Monday:
     - Boundedness 
     - Open, closed and compact sets
 3. Problem Set 1 question 1 (a) - Try to prove using contradiction
-4. Questions from the books listed above. 
+4. Questions from the books listed above.
+    - It is important to even know the statements that are true! 
+    - Google stuff to make sure you have correctly solved questions.
